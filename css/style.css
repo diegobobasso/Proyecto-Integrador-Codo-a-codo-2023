@@ -71,7 +71,8 @@
 }
 
 .bgimagen {
-    background-image: url("../img/ba1.img");
+    background-size: cover;
+    opacity: 0.5;
 }
 
 .bgdgrey {
