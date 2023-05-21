@@ -99,6 +99,21 @@ header {
     background-color: rgba(38, 58, 114, 0.993);
 }
 
+@media screen and (max-width: 800px) {
+    .tamres{
+    font-size: 70%;
+
+    }
+        
+  }
+
+@media screen and (max-width: 500px) {
+    .tamres{
+    font-size: 50%;
+
+    }
+        
+  }
 
 
 
